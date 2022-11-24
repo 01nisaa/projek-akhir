@@ -1,0 +1,14 @@
+.container {
+    width: 55%;
+    margin: auto;
+}
+
+.a1 {
+    text-decoration: none;
+    color: grey;
+}
+
+.a2 {
+    text-decoration: none;
+    color: red;
+}
